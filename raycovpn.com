@@ -1,10 +1,9 @@
 {
-"SendMessage":2,
+"SendMessage":3,
 "MyMessage":
-"Welcome and Enjoy!
- \n PrivateVpn Pro
+\n\n PrivateVpn Pro
 \n- GTM NO LOAD
 \n- STS NO LOAD
-\n- PROMONET ( NO BLOCK ) 
-\n- GIGA STORIES PWEDE NA SA TIKTOK BASED PROMO
-\n- GTM NO LOAD IBA IBANG PAYLOAD YAN PER NO. AND THEN IP HUNT MUNA AND CONNECT THANKS"}
+\n- PROMONET (NO BLOCKING) 
+\n\n-Please Paki ingatan Ang server para mag tagal
+\n\nBy: FixerApp "}
