@@ -1,5 +1,5 @@
 {
-"SendMessage":6,
+"SendMessage":7,
 "MyMessage":"\n PrivateVpn Pro
 \n\n-GTM NO LOAD
 \n-STS NO LOAD
