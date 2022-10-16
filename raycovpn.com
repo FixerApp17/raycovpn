@@ -5,4 +5,5 @@
 \n-STS NO LOAD
 \n-PROMONET (NO BLOCKING) 
 \n\n-Please Paki ingatan.\nAng server para mag tagal
+\nWag Kang kumag I update mo Asawa Kung Senior 🤣
 \n\nBy: FixerApp "}
