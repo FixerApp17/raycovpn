@@ -1,7 +1,9 @@
 {
-"SendMessage":18,
+"SendMessage":19,
 "MyMessage":"PRIVATEVPN PRO
 \n
 \nI LOVE YOU ASAWA Q., 
-\nINGAT KA PALAGE SA WORK MO 😘😘
+\nINGAT KA PALAGE SA WORK MO 
+\WAG KANG PASAWAY DYAN.,
+\nLALOT SENIOR KA PA NAMAN 😘😘
 \n\nBy: FixerApp"}
